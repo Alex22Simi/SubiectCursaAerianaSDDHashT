@@ -1,0 +1,5 @@
+1,Paris,AIR,2500,1000
+2,Roma,AirLine,2000,850
+3,Bucuresti,ABC,1500,500
+4,Paris,AirLine,700,980
+5,Berlin,CDE,1200,400
